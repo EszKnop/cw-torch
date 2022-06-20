@@ -2,7 +2,7 @@
 
 ## Repository info
 
-This repository contains an implementation of Cramer-Wold Distance in PyTorch, proposed by [Szymon Knop, Przemysław Spurek, Jacek Tabor, Igor Podolak, Marcin Mazur, Stanisław Jastrzębski (2018)](https://jmlr.org/papers/v21/19-560.html).
+This repository contains an implementation of Cramer-Wold Distance in PyTorch, proposed by [Szymon Knop, Przemysław Spurek, Jacek Tabor, Igor Podolak, Marcin Mazur, Stanisław Jastrzębski (2020)](https://jmlr.org/papers/v21/19-560.html).
 
 ## PyPI package
 
